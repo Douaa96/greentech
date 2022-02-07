@@ -2,11 +2,13 @@
 layout: layouts/bonne-pratique.njk
 title: Prioriser la remise en état ou la remise à niveau pour réemploi plutôt que le recyclage
 type: bpnr
-date: 2021-07-15
+date: 2022-02-17
 idbp: i.1
 priority: Prioritaire
+difficulty: Moyenne
 who:
-  - Opérationnel
+  - Direction du numérique
+  - Délégué au numérique responsable
 indicators:
   - "Nombre d'équipements informatiques remis en état ou à niveau"
   - "Poids des DEEE évités : poids des équipements remis en état ou à niveau"
