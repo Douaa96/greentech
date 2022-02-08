@@ -1,6 +1,6 @@
 ---
 layout: layouts/bonne-pratique.njk
-title: Faire appel à un établissement de l'économie sociale et solidaire
+title: Reconditionner les équipements
 type: bpnr
 date: 2022-02-17
 idbp: i.4
